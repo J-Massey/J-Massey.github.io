@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Jonathan Massey"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc understanding and modelling the footprint of large-scale motions on the wall shear stress and subcutaneous pressure using resolvent analysis."
+  bio              : "Modelling the footprint of large-scale motions on the wall shear stress and subcutaneous pressure using resolvent analysis."
   location         : "California"
-  employer         : "Stanford Uniersity"
+  employer         : "Stanford University"
   uri              : # URL
   email            : "masseyj@stanford.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=9Y6HAjAAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2893-955X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "masseyjmo"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
