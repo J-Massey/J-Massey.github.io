@@ -19,7 +19,7 @@ I am a researcher specialising in fluid dynamics, leveraging a strong background
   - **Institution:** University of Southampton
   - **Research Focus:** Investigated the effect of roughness on the hydrodynamics of aquatic locomotion, particularly exploring whether fish scales improve swimming efficiency.
   - **Key Findings:** Provided new insights into the role of surface texture in reducing drag and enhancing propulsion in aquatic environments.
-  - **Thesis Link:** [My PhD Thesis](files/thesis.pdf)
+  - **Thesis Link:** [My PhD Thesis](files/massey_phd_thesis_FINAL-archival.pdf)
 
 ---
 
