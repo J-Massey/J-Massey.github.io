@@ -27,56 +27,56 @@ redirect_from:
 - Forged academic partnerships, laying the groundwork for research collaborations.
 - Adapted to and optimised workflows in a novel High-Performance Computing (HPC) setting.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Projects & Publications
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#### Massey, J., Ganapathisubramani, B., & Weymouth, G. (2023). A systematic investigation into the effect of roughness on self-propelled swimming plates. *Journal of Fluid Mechanics*, 971, A39. [doi:10.1017/jfm.2023.703](https://doi.org/10.1017/jfm.2023.703)
+- Examined the impact of egg-carton surface roughness on the hydrodynamics of Self-Propelled Swimming (SPS) bodies.
+- Identified that decreasing roughness wavelength necessitates higher undulation speeds to counteract drag, leading to higher energy costs and reduced swimming efficiency.
+- Revealed that roughness can significantly enhance flow enstrophy without corresponding force spikes, indicating induced secondary flow structures extending to the boundary layer edge.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#### Massey, J., Symon, S., Ganapathisubramani, B., & Weymouth, G. (2024). Resolvent analysis of a swimming foil. **Under preparation for** *Journal of Fluid Mechanics*
+- Investigates and develops the Data-Driven resolvent analysis framework.
+- Applied a novel coordinate transform to study the boundary-layer of moving bodies.
+- Reveals the dominant unstable modes of undulatory swimming.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Conference Presentations
+
+- **Sept 2023**: *Resolvent analysis of a swimming foil - ReCoVor*
+  - Introduced the data-driven resolvent analysis framework under development.
+
+- **Jun 2023**: *Chaotic breakdown of secondary-flow amplification in rough swimmers - Delft Colloquia*
+  - Investigated the link between periodicity and secondary-flow amplification of a rough swimmer.
+
+- **Apr 2023**: *The interaction between roughness and swimming plates - DisCoVor*
+
+- **Sept 2022**: *Secondary flows in rough swimming - APS DFD*
+
+- **Apr 2022**: *Surface roughness optimisation of an undulating plate - DisCoVor*
+  - Developed an optimisation procedure with in loop CFD simulations.
+
+- **Sept 2021**: *Modal decomposition of flow over a rough plate - UK Fluids*
+  - Ran simulations of a rough flat plate in conjunction with experiments.
+  - Applied modal decompositions such as POD and DMD to delineate the effect of roughness.
+
+- **Mar 2020**: *Machine learning the skin friction of a circular cylinder - CMNE*
+  - Implemented various neural networks to predict the skin friction on a downsampled flow field.
+
+### Training
+
+- **Nov 2019**: *Machine learning for fluid dynamics - von Karman Institute*
+  - Deepened my expertise in integrating machine learning and fluid dynamics.
+
+- **June 2022**: *Parallel IO - Jülich Supercomputing Centre*
+  - Honed my skills in handling large datasets effectively.
+  - Optimised I/O operations through parallelised packages like NetCDF and HDF5.
+
+
+### Training
+
+- **Nov 2019**: *Machine learning for fluid dynamics - von Karman Institute*
+  - Deepened my expertise in integrating machine learning and fluid dynamics.
+
+- **June 2022**: *Parallel IO - Jülich Supercomputing Centre*
+  - Honed my skills in handling large datasets effectively.
+  - Optimised I/O operations through parallelised packages like NetCDF and HDF5.
