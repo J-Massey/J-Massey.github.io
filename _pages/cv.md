@@ -34,7 +34,7 @@ redirect_from:
 - Identified that decreasing roughness wavelength necessitates higher undulation speeds to counteract drag, leading to higher energy costs and reduced swimming efficiency.
 - Revealed that roughness can significantly enhance flow enstrophy without corresponding force spikes, indicating induced secondary flow structures extending to the boundary layer edge.
 
-#### Massey, J., Symon, S., Ganapathisubramani, B., & Weymouth, G. (2024). Resolvent analysis of a swimming foil. **Under preparation for** *Journal of Fluid Mechanics*
+#### Massey, J., Symon, S., Ganapathisubramani, B., & Weymouth, G. (2024). Resolvent analysis of a swimming foil. **Submitted to** *Journal of Fluid Mechanics*
 - Investigates and develops the Data-Driven resolvent analysis framework.
 - Applied a novel coordinate transform to study the boundary-layer of moving bodies.
 - Reveals the dominant unstable modes of undulatory swimming.
