@@ -3,6 +3,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Group Culture"
+    url: /culture/
+
   - title: "Publications"
     url: /publications/
 
